@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/streamerthings/static/css/main.f1247ca1.chunk.css",
+    "main.js": "/streamerthings/static/js/main.2b02af72.chunk.js",
+    "main.js.map": "/streamerthings/static/js/main.2b02af72.chunk.js.map",
+    "runtime-main.js": "/streamerthings/static/js/runtime-main.9d30af7a.js",
+    "runtime-main.js.map": "/streamerthings/static/js/runtime-main.9d30af7a.js.map",
+    "static/js/2.7ecc2968.chunk.js": "/streamerthings/static/js/2.7ecc2968.chunk.js",
+    "static/js/2.7ecc2968.chunk.js.map": "/streamerthings/static/js/2.7ecc2968.chunk.js.map",
+    "index.html": "/streamerthings/index.html",
+    "static/css/main.f1247ca1.chunk.css.map": "/streamerthings/static/css/main.f1247ca1.chunk.css.map",
+    "static/js/2.7ecc2968.chunk.js.LICENSE.txt": "/streamerthings/static/js/2.7ecc2968.chunk.js.LICENSE.txt",
+    "static/media/Blog__001.17f26a32.jpg": "/streamerthings/static/media/Blog__001.17f26a32.jpg",
+    "static/media/Blog__002.a6424443.jpg": "/streamerthings/static/media/Blog__002.a6424443.jpg",
+    "static/media/Herramientas.7ccfcb80.svg": "/streamerthings/static/media/Herramientas.7ccfcb80.svg",
+    "static/media/Navbar.884c254e.svg": "/streamerthings/static/media/Navbar.884c254e.svg",
+    "static/media/SkillsProgress.147ab615.svg": "/streamerthings/static/media/SkillsProgress.147ab615.svg",
+    "static/media/arbolabport.00eef458.png": "/streamerthings/static/media/arbolabport.00eef458.png",
+    "static/media/blob.fb0fdddb.png": "/streamerthings/static/media/blob.fb0fdddb.png",
+    "static/media/blog.f7e04a2c.svg": "/streamerthings/static/media/blog.f7e04a2c.svg",
+    "static/media/folder.cf8f62e8.svg": "/streamerthings/static/media/folder.cf8f62e8.svg",
+    "static/media/header__foto.8eaa132d.png": "/streamerthings/static/media/header__foto.8eaa132d.png",
+    "static/media/logopersonal.f1a833ba.svg": "/streamerthings/static/media/logopersonal.f1a833ba.svg",
+    "static/media/send.34a1e373.svg": "/streamerthings/static/media/send.34a1e373.svg",
+    "static/media/skills.4cc0d8d1.svg": "/streamerthings/static/media/skills.4cc0d8d1.svg",
+    "static/media/stport.8dc819ac.png": "/streamerthings/static/media/stport.8dc819ac.png",
+    "static/media/user.60af2633.svg": "/streamerthings/static/media/user.60af2633.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d30af7a.js",
+    "static/js/2.7ecc2968.chunk.js",
+    "static/css/main.f1247ca1.chunk.css",
+    "static/js/main.2b02af72.chunk.js"
+  ]
+}

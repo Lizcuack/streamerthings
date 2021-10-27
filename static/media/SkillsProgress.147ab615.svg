@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="658" height="563" viewBox="0 0 658 563">
+  <g id="Progress_Bar" data-name="Progress Bar" transform="translate(-1095 -332)">
+    <g id="Group_15" data-name="Group 15" transform="translate(1095 332)">
+      <text id="Diseño_UI" data-name="Diseño UI" transform="translate(0 31)" font-size="32" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800"><tspan x="0" y="0">Diseño UI</tspan></text>
+      <text id="Diseño_UX" data-name="Diseño UX" transform="translate(0 133)" font-size="32" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800"><tspan x="0" y="0">Diseño UX</tspan></text>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="477" height="20" transform="translate(181 49)" fill="#d2d2d2"/>
+      <path id="Path_57" data-name="Path 57" d="M0,0H658V19H0Z" transform="translate(0 156)" fill="#d2d2d2"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="208" height="20" transform="translate(0 49)" fill="#6b6bfe"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="354" height="19" transform="translate(0 156)" fill="#6b6bfe"/>
+    </g>
+    <g id="Group_16" data-name="Group 16" transform="translate(1095 526.167)">
+      <text id="ReactJs" transform="translate(0 30.833)" font-size="32" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800"><tspan x="0" y="0">ReactJs</tspan></text>
+      <text id="HTML" transform="translate(0 131.833)" font-size="32" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800"><tspan x="0" y="0">HTML</tspan></text>
+      <rect id="Rectangle_9-2" data-name="Rectangle 9" width="477" height="19" transform="translate(181 49.833)" fill="#d3d3d3"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="658" height="19" transform="translate(0 155.833)" fill="#d2d2d2"/>
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" width="181" height="19" transform="translate(0 49.833)" fill="#6b6bfe"/>
+      <path id="Path_56" data-name="Path 56" d="M0,0H443V19H0Z" transform="translate(0 155.833)" fill="#6b6bfe"/>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(1095 720.335)">
+      <text id="CSS" transform="translate(0 30.665)" font-size="32" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800"><tspan x="0" y="0">CSS</tspan></text>
+      <text id="JavaScript" transform="translate(0 131.665)" font-size="32" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800"><tspan x="0" y="0">JavaScript</tspan></text>
+      <rect id="Rectangle_9-3" data-name="Rectangle 9" width="477" height="19" transform="translate(181 49.665)" fill="#d2d2d2"/>
+      <rect id="Rectangle_11-2" data-name="Rectangle 11" width="658" height="19" transform="translate(0 155.665)" fill="#d2d2d2"/>
+      <rect id="Rectangle_8-3" data-name="Rectangle 8" width="517" height="19" transform="translate(0 49.665)" fill="#6b6bfe"/>
+      <rect id="Rectangle_10-2" data-name="Rectangle 10" width="236" height="19" transform="translate(0 155.665)" fill="#6b6bfe"/>
+    </g>
+  </g>
+</svg>
